@@ -9,7 +9,10 @@ background-color: #888888;
     transform: scale(1.1);
     transition: 1s;
 }   
-
+ 
+h4{
+    color: #C77DFF;
+}
 
 .cards{
 display:grid;
